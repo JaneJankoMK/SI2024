@@ -5,5 +5,5 @@
 ## Proekt po Softversko Inzenerstvo za pochetok :(
 
 ### Prva mala shala hehe
-### Zapirka
+### Izvnicnik
 ### Mala shala
